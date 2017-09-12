@@ -9,8 +9,8 @@
 title: MinRiskMaxReward
 email: mnrskmxrwrd@minriskmaxreward.com
 description: > # this means to ignore newlines until "baseurl:"
-   Every actuarial study guide you'll ever need, in one place.
-baseurl: minriskmaxreward.com
+ Every actuarial study guide you'll ever need, in one place.
+baseurl:
 url: "http://minriskmaxreward.com" # the base hostname & protocol for your site
 twitter_username: mnrskmxrwrd
 github_username:  pag22
